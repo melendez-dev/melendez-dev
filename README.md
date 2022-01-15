@@ -25,7 +25,7 @@ const aboutMe = {
             js: ["node", "express"]
         },
         devOps: ["Git"],
-        databases: ["mongoDB", "MySql", "sqlite"],
+        databases: ["mongoDB", "MySql"],
         misc: ["Firebase"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
