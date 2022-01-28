@@ -19,13 +19,13 @@ const aboutMe = {
     technologies: {
         frontEnd: {
             js: [React],
-            css: ["bootstrap"]
+            css: ["bootstrap", "chakra-ui"]
         },
         backEnd: {
             js: ["node", "express"]
         },
         devOps: ["Git"],
-        databases: ["mongoDB", "MySql"],
+        databases: ["mongoDB"],
         misc: ["Firebase"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
