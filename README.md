@@ -5,7 +5,7 @@
 
 [![Linkedin: melendez-dev](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:/https://www.linkedin.com/in/melendez-dev/)](https://www.linkedin.com/in/melendez-dev/)
 [![Twitter: melend_ez](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/melend_ez)](https://twitter.com/melend_ez)
-![GitHub followers](https://img.shields.io/github/followers/melendez-dev?label=Follow&style=social)
+
 
 
 
