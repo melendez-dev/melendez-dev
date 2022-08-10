@@ -1,1 +1,1 @@
-currently software developer at Bodytech, Colombia.
+Currently software developer at Bodytech, Colombia.
